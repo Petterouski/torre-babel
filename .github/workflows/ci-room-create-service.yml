@@ -3,12 +3,12 @@ name: CI/CD - Room Create Service
 
 on:
   push:
-    branches: [ qa ]
+    branches: [ main ]
     paths:
       - 'microservices/room-management/room-create-service/**'
       - '.github/workflows/ci-room-create-service.yml'
   pull_request:
-    branches: [ qa ]
+    branches: [ main ]
     paths:
       - 'microservices/room-management/room-create-service/**'
 
