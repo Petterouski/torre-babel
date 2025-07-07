@@ -317,9 +317,9 @@ PATCH: Corrección de bugs
 Este proyecto está licenciado bajo la Licencia MIT - ver el archivo LICENSE para más detalles.
 👥 Equipo de Desarrollo
 
-Desarrollador Principal: Tu Nombre
+Desarrollador Principal: Petter Rodríguez
 Curso: Programación Distribuida - 8vo Semestre
-Universidad: Sistemas de Información
+Carrera: Sistemas de Información
 
 🆘 Soporte
 Para reportar bugs o solicitar features:
